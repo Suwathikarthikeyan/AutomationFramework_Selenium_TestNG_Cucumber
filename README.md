@@ -31,4 +31,4 @@ Run testng.xml or individual test classes
 
 Objective
 
-To demonstrate real-world automation testing practices aligned with industry standards and job-ready expectations
+To demonstrate real-world automation testing practices aligned with industry standards and job-ready expectations.
